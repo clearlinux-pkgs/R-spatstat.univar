@@ -1,1 +1,7 @@
 # This file contains recursive sources that require this package
+R-spatstat
+R-spatstat.explore
+R-spatstat.geom
+R-spatstat.linnet
+R-spatstat.model
+R-spatstat.random
